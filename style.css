@@ -106,3 +106,14 @@
       width: 100%;
       height: auto;
     }
+
+
+    .carousel-item img {
+      height: 400px;
+      width: 400px;
+      object-fit: cover;
+    }
+
+    /* .btn-outline-primary{
+      text-
+    } */
